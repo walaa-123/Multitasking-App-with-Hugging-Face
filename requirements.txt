@@ -1,0 +1,7 @@
+transformers
+torch
+gtts
+pandas
+streamlit
+numpy
+pillow
